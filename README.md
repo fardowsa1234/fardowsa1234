@@ -49,7 +49,7 @@ I'm a Software Developer with a deep passion for building seamless, high-impact 
 ## 🌐 Connect With Me
 
 - **LinkedIn**:[(https://www.linkedin.com/in/fardowsaabdullahi/](https://www.linkedin.com/in/fardowsa-abdullahi-a8b1202b8/))
-- **GitHub**: [fardowsa1234](https://github.com/fardowsa1234)
+- **GitHub**: [fardowsa1234][(https://github.com/fardowsa1234](https://github.com/fardowsa1234))
 
 ## 💼 Hire Me
 
