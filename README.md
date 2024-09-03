@@ -38,7 +38,7 @@ I'm a Software Developer with a deep passion for building seamless, high-impact 
 ## 🌟 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on enhancing my skills in full-stack development, focusing on React and Flask.
-- 🌱 I’m currently learning Python Flask, SQL, and improving my expertise in front-end development with JavaScript, React, HTML, and CSS.
+- 🌱 I’m currently learning Python Flask, SQLite, and improving my expertise in front-end development with JavaScript, React, HTML, and CSS.
 - 👯 I’m looking to collaborate on exciting web development projects that push the boundaries of user experience and performance.
 - 🤔 I’m looking for help with expanding my knowledge in cloud computing and scalable system architecture.
 - 💬 Ask me about anything related to front-end development, React
@@ -55,16 +55,8 @@ I'm a Software Developer with a deep passion for building seamless, high-impact 
 
 Looking for a committed and skilled developer to bring your ideas to life? Let’s connect! I’m actively seeking new opportunities to contribute my expertise to exciting and impactful projects. You can reach me via:
 
-- **Email**: [fardosagedi93@gmail.com](mailto:fardosaabdullahi991@gmail.com)
+- **Email**: [fardosaabdullahi991@gmail.com](mailto:fardosaabdullahi991@gmail.com)
 - **LinkedIn**: [LinkedIn]([https://www.linkedin.com/in/fardowsaabdullahi/](https://www.linkedin.com/in/fardowsa-abdullahi-a8b1202b8/))
-
-- ## 💼 Looking for a Front-End Developer?
-
-If you're seeking a passionate and skilled front-end developer who can bring your ideas to life with clean, responsive, and intuitive designs, then look no further! While I'm currently expanding my expertise in back-end technologies like Flask and SQL, my heart remains in front-end development.
-
-I specialize in crafting exceptional user interfaces using **JavaScript**, **React**, **HTML5**, and **CSS3**. My focus is on delivering seamless user experiences that are both visually appealing and functionally robust.
-
-Let's create something amazing together! If you're ready to take your project to the next level, let's connect and discuss how I can contribute to your team. I'm excited to apply my front-end skills to build something truly impactful.
 
 **Reach out to me**: [fardosaabdullahi991@gmail.com](mailto:fardosaabdullahi991@gmail.com)
 
