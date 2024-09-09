@@ -28,7 +28,7 @@ Tools & Platforms:
 🌱 Git & 🐙 GitHub: Version control and collaboration made easy.
 ⚡ Vite: A fast development environment for modern web projects.
 🛠️ ESLint: Ensuring code quality and consistency across projects.
-🐳 Docker: Containerization for seamless development and deployment.ment.
+🐳 Docker: Containerization for seamless development and deployment.
 
 **Tools & Platforms**:
 - **Git & GitHub**: Version control and collaboration made easy.
